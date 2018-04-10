@@ -1,7 +1,7 @@
 import VueRouter from 'vue-router'
 
-import Home from '../home/screens/Home.vue'
-import CdList from '../compact-disk/screens/CdList.vue'
+import Home from './home/screens/Home.vue'
+import CdList from './compact-disk/screens/CdList.vue'
 
 const routes = [
   {
